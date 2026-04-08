@@ -1,6 +1,7 @@
 @media screen and (max-width: 1920px) {
   #profile {
     height: 40vh;
+    gap: 8rem;
     margin-bottom: 6rem;
   }
   .about-containers {
