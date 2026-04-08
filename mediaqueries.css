@@ -4,10 +4,7 @@
     gap: 7rem;
     margin-bottom: 6rem;
   }
-  #about {
-    height: 60vh;
-    margin-bottom: 3rem;
-  }
+  
   .about-containers {
     flex-wrap: wrap;
   }
