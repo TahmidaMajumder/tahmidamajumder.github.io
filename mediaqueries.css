@@ -5,7 +5,8 @@
     margin-bottom: 6rem;
   }
   #about {
-    height: 45vh;
+    height: 50vh;
+    margin-bottom: 3rem;
   }
   .about-containers {
     flex-wrap: wrap;
