@@ -163,7 +163,7 @@ section {
 #profile {
   display: flex;
   justify-content: center;
-  gap: 8rem;
+  gap: 20rem;
   height: 80vh;
 }
 
