@@ -308,6 +308,7 @@ section {
 .section-container {
   gap: 2rem;
   height: 60%;
+  padding-bottom:5vh;
 }
 
 /*
