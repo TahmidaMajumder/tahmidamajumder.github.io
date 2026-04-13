@@ -263,7 +263,8 @@ section {
 
 #about {
   position: relative;
-  height: 60vh;
+  height: 80vh;
+  padding-bottom: 5vh;
 }
 
 .about-containers {
