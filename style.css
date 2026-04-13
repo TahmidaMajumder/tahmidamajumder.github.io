@@ -146,7 +146,7 @@ a:hover {
 /* SECTIONS */
 
 section {
-  padding-top: 14vh;
+  padding-top: 4vh;
   height: 96vh;
   margin: 0 10rem;
   box-sizing: border-box;
@@ -263,7 +263,7 @@ section {
 
 #about {
   position: relative;
-  height: 70vh;
+  height: 80vh;
 }
 
 .about-containers {
